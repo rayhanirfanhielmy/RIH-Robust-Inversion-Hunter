@@ -50,3 +50,8 @@ Once the optimization is complete, RIH will generate an `output/` folder contain
 * Plot images of the best Moment Tensor inversion (Beachball map, waveform fits, variance vs. depth).
 * `timing_report.csv`: Execution time report for each computational stage.
 * The final optimized `mtinv.in` configuration file.
+
+## 📝 Citation
+*Chiang, A. (2020). Time Domain Moment Tensor Inversion in Python. Lawrence Livermore National Laboratory (LLNL).*
+
+
