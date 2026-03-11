@@ -50,6 +50,3 @@ Once the optimization is complete, RIH will generate an `output/` folder contain
 * Plot images of the best Moment Tensor inversion (Beachball map, waveform fits, variance vs. depth).
 * `timing_report.csv`: Execution time report for each computational stage.
 * The final optimized `mtinv.in` configuration file.
-
-## 📝 Citation
-*(If you use this software in your research, please cite our upcoming paper. The citation details will be updated here once the paper is published.)*
